@@ -1,2 +1,8 @@
 this is bar
 
+second paragraph
+
+third paragraph
+
+four paragraph
+
